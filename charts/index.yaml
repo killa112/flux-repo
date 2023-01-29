@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   columbus:
   - apiVersion: v2
-    appVersion: 1.16.0
+    appVersion: 1.20.1
     created: "2023-01-29T16:19:10.742183667+05:30"
     description: A Helm chart for Kubernetes
     digest: 863e16aee091dbe79663a53d81ecf1c0280419b5525eab58045a170289aaa3e7
